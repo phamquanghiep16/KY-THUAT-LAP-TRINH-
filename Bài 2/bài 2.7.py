@@ -5,5 +5,5 @@ d= dict()
 for i in range(1,n+1):
   d[i]=i*i
 print(d)
-print("sv:tran nguyen viet duc")
-print("235752020710013")
+print("pham quang hiep")
+print("mssv:235752020710015")
