@@ -11,5 +11,5 @@ while a <= 4000000-1:
     a, b = b, a + b  # Cập nhật giá trị Fibonacci
 
 print("\nSum of even Fibonacci numbers:", total)  # Chỉnh lại thông báo in
-print("sv:tran nguyen viet duc")
-print("235752020710013")
+print("pham quang hiep")
+print("mssv:235752020710015")
