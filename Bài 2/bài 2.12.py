@@ -19,8 +19,8 @@ for p in items :
     
     mk.append(p)      #nối các phần tử p trong items lại và thêm vào danh sách rỗng m
     print(",".join(mk))
-    print("sv:tran nguyen viet duc")
-    print("235752020710013")
+    print("pham quang hiep")
+print("mssv:235752020710015")
 
 
     
