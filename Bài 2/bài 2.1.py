@@ -6,5 +6,5 @@ if n1==n2:
     print("n1 bằng n2")
 else:
     print("n2 is big")
-print("trần nguyễn viết đức")
-print("mssv:235752020710013")
+print("pham quang hiep")
+print("mssv:235752020710015")
