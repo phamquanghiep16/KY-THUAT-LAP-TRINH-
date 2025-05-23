@@ -6,5 +6,5 @@ m.append(k)
 print(m)
 d={1:1,2:k,'danh sách kết hợp l và k':m}
 print(d)
-print("sv:tran nguyen viet duc")
-print("235752020710013")
+print("pham quang hiep")
+print("mssv:235752020710015")
