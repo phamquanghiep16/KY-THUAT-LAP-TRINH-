@@ -3,5 +3,5 @@ if n % 2 == 0:
     print("EVEN Number")
 else:
     print("ODD Number")
-print("trần nguyễn viết đức")
-print("mssv:23575205020710013")
+print("pham quang hiep")
+print("mssv:235752020710015")
