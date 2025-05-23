@@ -1,5 +1,5 @@
-print("Trần Nguyễn Viết Đức")
-print("235752020710013")
+print("pham quang hiep")
+print("mssv:235752020710015")
 ############################################
 i = 1
 for j in range(2, 10):
