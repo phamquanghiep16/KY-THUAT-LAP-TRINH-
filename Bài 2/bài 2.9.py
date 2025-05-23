@@ -9,6 +9,7 @@ for n in an :
     else:
         dict[n] = 1
 print(dict)
-print("tran nguyen viet duc")
+print("pham quang hiep")
+print("mssv:235752020710015")
 # chương trình đếm số ký tự xuất hiện trong chuỗi
 # thêm lần lượt các ký tự trong biến an vào từ điển, nếu phát hiện ký tự đó đã có trong từ điển rồi thì +1, nếu không thì =1
